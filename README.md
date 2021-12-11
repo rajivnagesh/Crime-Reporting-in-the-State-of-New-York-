@@ -6,5 +6,5 @@ EAS 503: Intro To Data-Driven Analysis Data Science University at Buffalo </br>
 <br> The "Schema_Deliverable" file explains the working of our database and how we have connected the tables. </br>
 
 
-
+<br> <h5> "Group_17 Video Presentation Link" file contains the link to the main presentation, explanation of the project and code. </h5></br>
 
